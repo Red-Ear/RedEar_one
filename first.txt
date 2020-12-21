@@ -10,3 +10,13 @@ git log
 git push
 
 ##Other colleagues compiled the document again
+
+
+branch
+git branch branch1
+git checkout branch1
+git status 
+git add HelloWorld.java
+git commit -m "HelloWorld"
+git push
+git push --set-upstream origin branch1
