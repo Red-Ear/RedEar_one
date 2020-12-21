@@ -8,3 +8,5 @@ git show 8eb16e24d90cf5ed78dae4e2a1fe5f5a64dc0bcf
 git reset ca122844903350721c25351190816536bf920a92
 git log
 git push
+
+##Other colleagues compiled the document
