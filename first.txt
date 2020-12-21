@@ -1,1 +1,16 @@
+
 document user make some changes with his colleagues
+
+创建了一个 first.txt文件
+git add first.txt
+git commit -m "first commit"
+git config --global user.mail "XXXXXXX@XX.com"
+git config --global user.name "Red-Ear"
+git status
+git show 8eb16e24d90cf5ed78dae4e2a1fe5f5a64dc0bcf
+git reset ca122844903350721c25351190816536bf920a92
+git log
+git push
+
+##Other colleagues compiled the document again
+
