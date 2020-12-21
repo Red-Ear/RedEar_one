@@ -9,4 +9,4 @@ git reset ca122844903350721c25351190816536bf920a92
 git log
 git push
 
-##Other colleagues compiled the document
+##Other colleagues compiled the document again
