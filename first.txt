@@ -1,6 +1,3 @@
-
-document user make some changes with his colleagues
-
 创建了一个 first.txt文件
 git add first.txt
 git commit -m "first commit"
@@ -14,3 +11,12 @@ git push
 
 ##Other colleagues compiled the document again
 
+
+branch
+git branch branch1
+git checkout branch1
+git status 
+git add HelloWorld.java
+git commit -m "HelloWorld"
+git push
+git push --set-upstream origin branch1
